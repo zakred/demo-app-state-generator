@@ -4,6 +4,10 @@ This app is a demo for:
 
 https://www.npmjs.com/package/state-generator
 
+## Code Sandbox
+
+https://codesandbox.io/s/github/zakred/demo-app-state-generator
+
 ## App
 
 This was created with the following steps:
